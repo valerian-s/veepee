@@ -1,0 +1,32 @@
+body, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+}
+
+li{
+  list-style: none;
+}
+
+body {
+  background-color: #ccc;
+  font-family: 'soe';
+  position: relative;
+}
+
+main {
+  padding-bottom: 50px;
+}
+
+
+h1 {
+color: #f13c3c;
+}
+
+h1, h2 {
+  font-weight: lighter;
+  margin: 0;
+}

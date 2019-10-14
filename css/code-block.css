@@ -1,0 +1,27 @@
+.promo-code-wrapper {
+    background-color: #f13c3c;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.promo-code-wrapper .title {
+    font-size: 17px;
+    font-weight: bold;
+    margin: 0 0 5px;
+    text-transform: uppercase;
+}
+
+.promo-code-wrapper .link {
+    font-size: 15px;
+}
+.promo-code-wrapper .link  a {
+    color: #fff;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 840px) {
+    .promo-code-wrapper  {
+      padding: 20px;
+    }
+}

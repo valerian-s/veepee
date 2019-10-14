@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "soe";
+  src: url('../fonts/SevenOneEight-Medium.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+	font-family: "soe";
+  src: url('../fonts/SevenOneEight-ExtraBold.ttf');
+  font-weight: bold;
+}
+
+@font-face {
+	font-family: "soe";
+  src: url('../fonts/SevenOneEight-Black.ttf');
+  font-weight: bolder;
+}
+
+@font-face {
+	font-family: "soe";
+  src: url('../fonts/SevenOneEight-Light.ttf');
+  font-weight: lighter;
+}
+
+@font-face {
+	font-family: "soe-book";
+  src: url('../fonts/SevenOneEight-Book.ttf');
+}
